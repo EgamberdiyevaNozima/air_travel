@@ -82,7 +82,7 @@ class EnterNumberPage extends StatelessWidget {
             ),
             ElevatedButton(
               onPressed: () {
-                context.go('/home');
+                context.go('/enter_the_code') ;
               },
               style: ButtonStyle(
                 backgroundColor: MaterialStateProperty.all(AppColors.GreenMain),
