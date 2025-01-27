@@ -28,7 +28,7 @@ Widget build(BuildContext context) {
           ),
           SizedBox(height: 10),
           DropdownWidget(
-            items: ["Toshkent", "Andijon", "Farg'ona", "Buxoro"],
+            items: ["Toshkent", "Andijon", "Farg'ona", "Buxoro","Navoiy"],
             hintText: "Viloyatingiz",
           ),
           SizedBox(height: 20),
