@@ -9,11 +9,7 @@ class ProfilePictureWidget extends StatelessWidget {
         CircleAvatar(
           radius: 50,
           backgroundColor: Colors.grey[300],
-          child: Icon(
-            Icons.person,
-            size: 50,
-            color: Colors.white,
-          ),
+          backgroundImage: AssetImage('TravelAssets/images/offers/offers_5.jpg'),
         ),
         CircleAvatar(
           radius: 15,
