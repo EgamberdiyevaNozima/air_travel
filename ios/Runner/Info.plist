@@ -45,12 +45,6 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
-
-
-	<key>NSPhotoLibraryUsageDescription</key>
-    <string>Bizga sizning fotosurat kutubxonangizga kirish kerak</string>
-    <key>NSCameraUsageDescription</key>
-    <string>Bizga sizning kameringizga kirish kerak</string>
 </dict>
 </plist>
 
